@@ -17,3 +17,8 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 15.0
+
+[submodule "odoo-mastercore/odoo-venezuela-extension"]
+	path = odoo-mastercore/odoo-venezuela-extension
+	url = git@github.com:odoo-mastercore/odoo-venezuela-extension.git
+	branch = 15.0
