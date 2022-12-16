@@ -7,3 +7,8 @@
 	path = odoo-mastercore/account-payment
 	url = git@github.com:odoo-mastercore/account-payment.git
 	branch = 15.0
+
+[submodule "odoo-mastercore/account-financial-tools"]
+	path = odoo-mastercore/account-financial-tools
+	url = git@github.com:odoo-mastercore/account-financial-tools.git
+	branch = 15.0
