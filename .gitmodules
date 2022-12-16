@@ -2,3 +2,8 @@
 	path = odoo-mastercore/odoo-venezuela
 	url = git@github.com:odoo-mastercore/odoo-venezuela.git
 	branch = 15.0
+
+[submodule "odoo-mastercore/account-payment"]
+	path = odoo-mastercore/account-payment
+	url = git@github.com:odoo-mastercore/account-payment.git
+	branch = 15.0
