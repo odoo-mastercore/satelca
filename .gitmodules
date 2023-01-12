@@ -22,3 +22,8 @@
 	path = odoo-mastercore/odoo-venezuela-extension
 	url = git@github.com:odoo-mastercore/odoo-venezuela-extension.git
 	branch = 15.0
+
+[submodule "odoo-mastercore/satelca_addons"]
+	path = odoo-mastercore/satelca_addons
+	url = git@github.com:odoo-mastercore/satelca_addons.git
+	branch = 15.0
